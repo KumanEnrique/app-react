@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "titulo":"tarea 1",
+            "autor":"luis 1",
+            "descripcion":"descripcion 1",
+            "prioridad":"baja"
+        },
+        {
+            "titulo":"tarea 2",
+            "autor":"luis 2",
+            "descripcion":"descripcion 2",
+            "prioridad":"media"
+        },
+        {
+            "titulo":"tarea 3",
+            "autor":"luis 3",
+            "descripcion":"descripcion 3",
+            "prioridad":"alta"
+        },
+        {
+            "titulo":"tarea 4",
+            "autor":"luis 4",
+            "descripcion":"descripcion 4",
+            "prioridad":"alta"
+        }
+    ]
+}
